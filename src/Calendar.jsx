@@ -296,7 +296,7 @@ const Calendar = () => {
 
   return (
     <div>
-      <h2>Calendar</h2>
+      <h2>Personal Calendar Web App</h2>
       <div className="calendar-navigation">
         <button className="previous-btn" onClick={handlePreviousMonth}>
           {"<"}
